@@ -1,1 +1,1 @@
-# rsschool-cv
+https://IraStrel.github.io/rsschool-cv/cv
