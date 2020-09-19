@@ -11,7 +11,7 @@ Tel: +7-985-238-68-53
 ---
 
 ## About
-I'm an accessibility subject matter expert with an overall 4 years of work experience and now accessibility turned into my passion towards inclusion. My experience covered web sites accessibility testing, native mobile ADA testing both IOS and Android along with web page testing in a size short to long term. I have covered projects like Education, Banking, Airlines, E-commerce and some others. Skills: HTML, CSS, Javascript, WCAG 2.0, WCAG 2.1, WAI-ARIA 1.2, PDF Accessibility, PDF Remediation, Section 508 Refresh. Assistive technologies: NVDA, JAWS, Voiceover, Talkback.
+I'm an accessibility subject-matter expert with about 4 years of work experience and now accessibility turned into my passion towards inclusion. My experience covered websites accessibility testing, native mobile ADA testing both IOS and Android along with web page testing in a size short to long term. I have covered projects like Education, Banking, Airlines, E-commerce and some others. Skills: HTML, CSS, Javascript, WCAG 2.0, WCAG 2.1, WAI-ARIA 1.2, PDF Accessibility, PDF Remediation, Section 508 Refresh. Assistive technologies: NVDA, JAWS, Voiceover, Talkback.
 
 ---
 
