@@ -79,7 +79,7 @@ Bachelor's degree, Construction, Grade 4.4
 ---
 
 ## Licenses & Certifications:
-* **Certificate of Completion "What is Section 508 and Why Is It Important?** U.S. Department of Homeland Security (Aug 2020)
+* **Certificate of Completion "What is Section 508 and Why Is It Important?** [U.S. Department of Homeland Security](https://www.dhs.gov/) (Aug 2020)
 * **WordPress: Accessibility** LinkedIn (Mar 2020)
 * **Accessibility for Web Design** LinkedIn (Dec 2020)
 
