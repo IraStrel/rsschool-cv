@@ -13,7 +13,7 @@ Tel: +7-985-238-68-53
 ## Experience
     
 ### EPAM (Jul 2019 - Present)
-**Senior Software Testing Engineer, Accessibility Auditor/Expert** 
+#### Senior Software Testing Engineer, Accessibility Auditor/Expert 
 
 1. Accessibility Testing and Audit (WCAG 2.0, WCAG 2.1, SECTION 508 Refresh)
 2. Functional Testing (Exploratory Testing and Regression Testing)
@@ -29,7 +29,7 @@ Tel: +7-985-238-68-53
 *Technologies:* HTML, CSS, Android Studio, Xcode, JAWS, NVDA, VoiceOver, TalkBack.
 
 ### Competentum (Mar 2017 - Jul 2019)
-**Software Testing Engineer, Accessibility Auditor**
+#### Software Testing Engineer, Accessibility Auditor
 
 1. Accessibility Testing and Audit (WCAG 2.0, SECTION 508)
 2. Functional Testing (Exploratory Testing and Regression Testing)
@@ -41,7 +41,7 @@ Tel: +7-985-238-68-53
 *Technologies:* HTML, CSS, JAWS, NVDA, VoiceOver, TalkBack.
 
 ### FSUE "Rosmorport" (Jan 2015 - Mar 2017)
-**Chief Specialist Cost Estimate Department**
+#### Chief Specialist Cost Estimate Department
 
 1. Budgeting for the construction and installation work
 2. Preparation and reviewing of:
@@ -55,7 +55,7 @@ Tel: +7-985-238-68-53
 *Technologies:* Grand-Smeta, Hector: estimator-Builder, Turbo smetchik, Adept:Project.
 
 ### JSC "Projectmashpribor" (Jul 2010 - Jan 2015)
-**Lead Specialist Cost Estimate Department**
+#### Lead Specialist Cost Estimate Department
 
 1. Budgeting for the construction and installation work
 2. Preparation and reviewing of summary estimations
@@ -71,7 +71,7 @@ Tel: +7-985-238-68-53
 
 ## Education
 1. **Ivanovo State Power Univirsity** (2005 - 2010)
-Specialist, ndustrial Power, Grade 4.4 
+Specialist, Industrial Power, Grade 4.4 
 
 2. **Ivanovo State University of Architecture, Building and Civil Engineering** (2011 – 2015)
 Bachelor's degree, Construction, Grade 4.4
