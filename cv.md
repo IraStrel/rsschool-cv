@@ -3,7 +3,7 @@
 [1]: https://avatars1.githubusercontent.com/u/33218767?s=192&v=4 "Irina Strelnikova"
 
 # Irina Strelnikova
-**Location:** Moscow, Russian Federation
+Moscow, Russian Federation
 ## Contacts
 Email: [irastrel1788@gmail.com](irastrel1788@gmail.com)\
 Tel: +7-985-238-68-53
@@ -75,21 +75,21 @@ I'm an accessibility subject-matter expert with about 4 years of work experience
 ---
 
 ## Education
-1. **Ivanovo State Power Univirsity** (2005 - 2010)
+1. **Ivanovo State Power Univirsity** (2005 - 2010)\
 Specialist, Industrial Power, Grade 4.4 
 
-2. **Ivanovo State University of Architecture, Building and Civil Engineering** (2011 – 2015)
+2. **Ivanovo State University of Architecture, Building and Civil Engineering** (2011 – 2015)\
 Bachelor's degree, Construction, Grade 4.4
 
 ---
 
-## Licenses & Certifications:
+## Licenses & Certifications
 * **Certificate of Completion "What is Section 508 and Why Is It Important?** [U.S. Department of Homeland Security](https://www.dhs.gov/) (Aug 2020)
 * **WordPress: Accessibility** LinkedIn (Mar 2020)
 * **Accessibility for Web Design** LinkedIn (Dec 2020)
 
 ---
 
-## Languages:
+## Languages
 * English - B2
 * German - A2
