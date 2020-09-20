@@ -1,1 +1,1 @@
-https://IraStrel.github.io/rsschool-cv/cv
+https://IraStrel.github.io/rsschool-cv
