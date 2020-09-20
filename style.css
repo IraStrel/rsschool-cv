@@ -1,20 +1,106 @@
-.link_nav {
-    margin: 1em;
-}
-
-.list {
-    display: inline-flex
-}
-
-.image {
-position: fixed;
-}
-
 .body {
     font-family: Arial, Helvetica, sans-serif;
+    max-width: 1100px;
+    min-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.header {
+    height: 50px;
+    display: flex;
 }
 
-.nav {
+.navbar {
+    width: 100%;
     margin-left: auto;
-    margin-right: 0;
+    align-items: center;
+}
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul li a {
+    display: flex;
+    width: 130px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: #750918;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar ul li a:hover {
+    background-color: #BB0000;
+    font-weight: 700;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: #BB0000;
+}
+
+a:hover {
+    color: #EE0000;
+    font-weight: 700;
+}
+a:focus {
+    color: #EE0000;
+    font-weight: 700;
+}
+
+.about {
+    display: absolute;
+    width: 70%;
+    margin-left: auto;
+    margin-top: auto;
+}
+.about p {
+    line-height: 1.5em;
+}
+
+.photo {
+    width: 30%;
+    margin-top: 20px;
+}
+
+.row1 {
+    display: flex;
+}
+
+.experience {
+    display: absolute;
+    width: 65%;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.experience ol {
+    padding-left: 10px;
+    line-height: 1.3em;
+}
+.experience ol ul{
+    padding-left: 20px;
+    line-height: 1.3em;
+}
+
+ol {
+    line-height: 1.3em;
+}
+
+ul {
+    line-height: 1.5em;
+}
+
+.education {
+    display: absolute;
+    width: 35%;
+    margin-left: auto;
+    margin-bottom: auto;
 }
