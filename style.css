@@ -2,35 +2,49 @@
     font-family: Arial, Helvetica, sans-serif;
     max-width: 1100px;
     min-width: 320px;
-    margin-left: auto;
-    margin-right: auto;
-    }
+    margin: 0 auto;
+    padding: 0 16px 24px;
+    box-sizing: border-box;
+}
+
 .header {
-    height: 50px;
     display: flex;
+    flex-wrap: wrap;
+    min-height: 50px;
+    padding: 12px 0;
 }
 
 .navbar {
     width: 100%;
-    margin-left: auto;
-    align-items: center;
 }
+
 .navbar ul {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    gap: 8px;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar ul li {
+    list-style-type: none;
 }
 
 .navbar ul li a {
     display: flex;
-    width: 130px;
-    height: 35px;
+    min-width: 120px;
+    min-height: 35px;
+    padding: 0 16px;
     border-radius: 30px;
     background-color: #750918;
     color: #fff;
     text-align: center;
     align-items: center;
     justify-content: center;
+    white-space: normal;
+    box-sizing: border-box;
 }
 
 .navbar ul li a:hover {
@@ -50,33 +64,47 @@ a:hover {
     color: #EE0000;
     font-weight: 700;
 }
+
 a:focus {
     color: #EE0000;
     font-weight: 700;
 }
 
-.about {
-    display: absolute;
-    width: 70%;
-    margin-left: auto;
-    margin-top: auto;
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
+
+.about {
+    flex: 1 1 420px;
+    min-width: 0;
+    margin: 20px 0 0;
+}
+
 .about p {
     line-height: 1.5em;
+    overflow-wrap: anywhere;
 }
 
 .photo {
-    width: 30%;
+    flex: 0 0 280px;
+    width: 280px;
+    max-width: 100%;
     margin-top: 20px;
 }
 
 .row1 {
     display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: flex-start;
 }
 
 .experience {
-    display: absolute;
-    width: 65%;
+    flex: 1 1 0;
+    min-width: 280px;
+    max-width: 100%;
     margin-right: auto;
     margin-top: auto;
 }
@@ -85,7 +113,8 @@ a:focus {
     padding-left: 10px;
     line-height: 1.3em;
 }
-.experience ol ul{
+
+.experience ol ul {
     padding-left: 20px;
     line-height: 1.3em;
 }
@@ -99,8 +128,47 @@ ul {
 }
 
 .education {
-    display: absolute;
-    width: 35%;
+    flex: 0 0 300px;
+    min-width: 280px;
+    max-width: 100%;
     margin-left: auto;
     margin-bottom: auto;
+}
+
+p,
+li {
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 768px) {
+    .header {
+        height: auto;
+    }
+
+    .navbar ul {
+        justify-content: center;
+    }
+
+    .navbar ul li {
+        flex: 1 1 100%;
+    }
+
+    .navbar ul li a {
+        width: 100%;
+    }
+
+    .row1 {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .photo,
+    .about,
+    .experience,
+    .education {
+        flex-basis: 100%;
+        max-width: 100%;
+        width: 100%;
+        margin: 0;
+    }
 }
