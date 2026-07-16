@@ -93,6 +93,7 @@ Bachelor's degree, Construction, Grade 4.3
 ---
 
 ## Languages
+* Russian - Native
 * English - B2+
 * German - A2
 * Croatian - B1+
