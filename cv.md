@@ -6,7 +6,7 @@
 Moscow, Russian Federation
 ## Contacts
 Email: [irastrel1788@gmail.com](irastrel1788@gmail.com)\
-Tel: +7-985-238-68-53
+Tel: +385-916-188-595
 
 ---
 
