@@ -4,6 +4,7 @@
 
 # Irina Strelnikova
 Moscow, Russian Federation
+Zagreb, Croatia
 ## Contacts
 Email: [irastrel1788@gmail.com](irastrel1788@gmail.com)\
 Tel: +385-916-188-595
