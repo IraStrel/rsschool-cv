@@ -7,6 +7,20 @@
     box-sizing: border-box;
 }
 
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    background: #750918;
+    color: #fff;
+    padding: 0.5em 1em;
+    z-index: 1000;
+}
+
+.skip-link:focus {
+    left: 0;
+}
+
 .header {
     display: flex;
     flex-wrap: wrap;
@@ -68,6 +82,8 @@ a:hover {
 a:focus {
     color: #EE0000;
     font-weight: 700;
+    outline: 0.2em solid #EE0000;
+    outline-offset: 0.2em;
 }
 
 img {
