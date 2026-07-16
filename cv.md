@@ -85,7 +85,7 @@ Bachelor's degree, Construction, Grade 4.3
 ---
 
 ## Licenses & Certifications
-* **Web Accessibility Specialist** [IAAP](https://www.accessibilityassociation.org/wascertification) (Dec 2020 - Dec 2023)
+* **Web Accessibility Specialist** [IAAP](https://www.accessibilityassociation.org/wascertification) (Dec 2020 - Jan 2027)
 * **Certificate of Completion "What is Section 508 and Why Is It Important?"** [U.S. Department of Homeland Security](https://www.dhs.gov/) (Aug 2020)
 * **WordPress: Accessibility** LinkedIn (Mar 2020)
 * **Accessibility for Web Design** LinkedIn (Dec 2020)
