@@ -1,17 +1,17 @@
 .body {
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 1100px;
-    min-width: 320px;
+    max-width: 68.75em;
+    min-width: 20em;
     margin: 0 auto;
-    padding: 0 16px 24px;
+    padding: 0 1em 1.5em;
     box-sizing: border-box;
 }
 
 .header {
     display: flex;
     flex-wrap: wrap;
-    min-height: 50px;
-    padding: 12px 0;
+    min-height: 3.125em;
+    padding: 0.75em 0;
 }
 
 .navbar {
@@ -23,7 +23,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    gap: 8px;
+    gap: 0.5em;
     padding: 0;
     margin: 0;
 }
@@ -34,10 +34,10 @@
 
 .navbar ul li a {
     display: flex;
-    min-width: 120px;
-    min-height: 35px;
-    padding: 0 16px;
-    border-radius: 30px;
+    min-width: 7.5em;
+    min-height: 2.1875em;
+    padding: 0 1em;
+    border-radius: 1.875em;
     background-color: #750918;
     color: #fff;
     text-align: center;
@@ -77,9 +77,9 @@ img {
 }
 
 .about {
-    flex: 1 1 420px;
+    flex: 1 1 26.25em;
     min-width: 0;
-    margin: 20px 0 0;
+    margin: 1.25em 0 0;
 }
 
 .about p {
@@ -88,22 +88,22 @@ img {
 }
 
 .photo {
-    flex: 0 0 280px;
-    width: 280px;
+    flex: 0 0 17.5em;
+    width: 17.5em;
     max-width: 100%;
-    margin-top: 20px;
+    margin-top: 1.25em;
 }
 
 .row1 {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 1.5em;
     align-items: flex-start;
 }
 
 .experience {
     flex: 1 1 0;
-    min-width: 280px;
+    min-width: 17.5em;
     max-width: 100%;
     margin-right: auto;
     margin-top: auto;
@@ -128,8 +128,8 @@ ul {
 }
 
 .education {
-    flex: 0 0 300px;
-    min-width: 280px;
+    flex: 0 0 18.75em;
+    min-width: 17.5em;
     max-width: 100%;
     margin-left: auto;
     margin-bottom: auto;
@@ -159,7 +159,7 @@ li {
 
     .row1 {
         flex-direction: column;
-        gap: 16px;
+        gap: 1em;
     }
 
     .photo,
